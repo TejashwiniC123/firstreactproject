@@ -1,0 +1,41 @@
+
+.base{
+    width: 500px;
+    height: auto;
+    border: 2px solid #ececec;
+    margin: 10px;
+}
+.title {
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+    text-align-last: left;
+    font-weight: bolder;
+    font-size: 23px;
+    padding-bottom: 15px;
+}
+
+
+.imageHolder 
+{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 10px
+}
+
+.content {
+    font-size: 14px;
+    text-align: justify;
+    padding-bottom: 15px;
+}
+
+.author {
+    
+    text-align: right;
+    margin-bottom: 5px;
+}
+
+.newsDesc {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
